@@ -1,0 +1,146 @@
+{
+    "short_name": "React App",
+    "name": "Create React App Sample",
+    "headData": [
+        {
+            "hade": "Best Package Listing",
+            "pera": "Choose your own comfortable packages"
+        },
+        {
+            "hade": "Best visiting blogs Listing",
+            "pera": "Must visit this blog in sundarbans"
+        },
+        {
+            "hade": "Read the latest from blog",
+            "pera": "Contrary to popular belief"
+        }
+    ],
+    "pakeges":[
+        {
+            "hade":"One Day Package",
+            "image": "https://sundarbantours.in/assets/sundarban-images/slider-32f41fea0540c67d7a9fd7dc35ec79d17202101290932.webp",
+            "revies":"250",
+            "reting": "4",
+            "price":"750",
+            "link":"/"
+        },
+        {
+            "hade":"Two Day Package",
+            "image": "https://sundarbantours.in/assets/sundarban-images/slider-32f41fea0540c67d7a9fd7dc35ec79d17202101290932.webp",
+            "revies":"650",
+            "reting": "4",
+            "price":"1500",
+            "link":"/"
+        },
+        {
+            "hade":"Three Day Package",
+            "image": "https://sundarbantours.in/assets/sundarban-images/slider-32f41fea0540c67d7a9fd7dc35ec79d17202101290932.webp",
+            "revies":"485",
+            "reting": "4",
+            "price":"2250",
+            "link":"/"
+        }
+    ],
+    "Revies":[
+        {
+            "hade":"First blog",
+            "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/10/Sundarban-National-Park-Feature.jpg",
+            "revies":"25",
+            "reting": "4",
+            "price":"This blog best for your friends and family",
+            "link":"/"
+        },
+        {
+            "hade":"Secend blog",
+            "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/10/Sundarban-National-Park-Feature.jpg",
+            "revies":"25",
+            "reting": "4",
+            "price":"This blog best for your friends and family",
+            "link":"/"
+        },
+        {
+            "hade":"Third blog",
+            "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2021/10/Sundarban-National-Park-Feature.jpg",
+            "revies":"25",
+            "reting": "4",
+            "price":"This blog best for your friends and family",
+            "link":"/"
+        }
+    ],
+    "blog":[
+        {
+            "hade":"First blog",
+            "image": "https://sandbox.bookingcore.org/uploads/demo/news/news-1.jpg",
+            "revies":"25",
+            "reting": "4",
+            "price":"This blog best for your friends and family",
+            "link":"/"
+        },
+        {
+            "hade":"Secend blog",
+            "image": "https://sandbox.bookingcore.org/uploads/demo/news/news-5.jpg",
+            "revies":"25",
+            "reting": "4",
+            "price":"This blog best for your friends and family",
+            "link":"/"
+        },
+        {
+            "hade":"Third blog",
+            "image": "https://sandbox.bookingcore.org/uploads/demo/tour/tour-1.jpg",
+            "revies":"25",
+            "reting": "4",
+            "price":"Best for you",
+            "link":"/"
+        }
+    ],
+    "offers": [
+        {
+            "image": "https://sandbox.bookingcore.org/uploads/demo/general/image_home_mix_1.jpg",
+            "icon": "HiTag",
+            "hade": "Special Offers",
+            "pera": "Find Your Perfect Hotels Get the best prices on 20,000+ properties the best prices on"
+        },
+        {
+            "image": "https://sandbox.bookingcore.org/uploads/demo/general/image_home_mix_2.jpg",
+            "icon": "HiOutlineInbox",
+            "hade": "Newsletters",
+            "pera": "Join for free and get our tailored newsletters full of hot travel deals."
+        },
+        {
+            "image": "https://sandbox.bookingcore.org/uploads/demo/general/image_home_mix_3.jpg",
+            "icon": "HiCursorClick",
+            "hade": "Travel Tips",
+            "pera": "Tips from our travel experts to make your next trip even better."
+        }
+    ],
+    "foonav":[
+        {
+            "hade":"COMPANY",
+            "hade1":"About Us",
+            "link1": "/",
+            "hade2":"Hotel Rooms",
+            "link2": "/",
+            "hade3":"Contact Us",
+            "link3": "/"
+        },
+        {
+            "hade":"SUPPORT",
+            "hade1":"Account",
+            "link1": "/",
+            "hade2":"Legal",
+            "link2": "/",
+            "hade3":"Privacy Policy",
+            "link3": "/"
+        },
+        {
+            "hade":"More information",
+            "hade1":"First blog",
+            "link1": "/",
+            "hade2":"First blog",
+            "link2": "/",
+            "hade3":"First blog",
+            "link3": "/"
+        }
+    ]
+
+}
